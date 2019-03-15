@@ -150,7 +150,3 @@ input:checked + label + .reveal {
     
 input + label:after { content: " (Show)"; }
 input:checked + label:after { content: " (Hide)"; }
-
-div.loc iFrame {
-    width:215px!important;
-}
